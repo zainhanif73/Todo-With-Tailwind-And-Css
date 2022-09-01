@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo-With-Tailwind-And-Css/static/css/main.fd56d2ef.css",
+    "main.js": "/Todo-With-Tailwind-And-Css/static/js/main.6457519a.js",
+    "index.html": "/Todo-With-Tailwind-And-Css/index.html",
+    "main.fd56d2ef.css.map": "/Todo-With-Tailwind-And-Css/static/css/main.fd56d2ef.css.map",
+    "main.6457519a.js.map": "/Todo-With-Tailwind-And-Css/static/js/main.6457519a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd56d2ef.css",
+    "static/js/main.6457519a.js"
+  ]
+}
